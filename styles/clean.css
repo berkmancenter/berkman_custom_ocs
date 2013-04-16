@@ -1,0 +1,31 @@
+/*
+
+Style: Clean
+
+*/
+
+#subheader-nav { -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none; }
+
+#subheader { background: #eee; margin-bottom: 0; }
+
+#page-inner { background-image: none; margin-top: 0; }
+
+
+
+.single .entry-format.quote .quote-bg,
+
+.single .entry-format.chat .chat-bg,
+
+.single .entry-format.link p a { background-image: none; }
+
+
+
+#page-title.pad,
+
+.single-header-small { border-bottom: 1px solid #eee; }
+
+
+
+.widget_wpb_tabs .wpb-tabs li a { background: #eee; -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none; }
+
+.widget_wpb_tabs .wpb-tabs li a:hover { background: #e5e5e5; }

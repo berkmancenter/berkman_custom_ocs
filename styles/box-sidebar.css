@@ -1,0 +1,37 @@
+/*
+
+Style: Box-Sidebar
+
+*/
+
+#page-inner { margin-top: 0; }
+
+#subheader { margin-bottom: 0; }
+
+#page-title.pad,
+
+#subheader-inner,
+
+.single .content,
+
+.single-header-small { border-bottom-color: #eee; }  
+
+
+
+.main.sidebar-right { background-image: url(box-sidebar/sidebar-right.png); }
+
+.main.sidebar-left { background-image: url(box-sidebar/sidebar-left.png); }
+
+
+
+@media only screen and (min-width: 640px) and (max-width: 860px) {
+
+
+
+	.main.sidebar-right { background-image: url(box-sidebar/sidebar-right-260.png); }
+
+	.main.sidebar-left { background-position: -80px 0; }
+
+
+
+}

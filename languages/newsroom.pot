@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Newsroom\n"
+"POT-Creation-Date: 2013-01-24 11:13-0500\n"
+"PO-Revision-Date: 2013-01-24 11:13-0500\n"
+"Last-Translator: WP Bandit <email@address>\n"
+"Language-Team: WPBandit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "Error 404. <span>Oops!</span>"
+msgstr ""
+
+#: ../404.php:17
+msgid "Something went wrong."
+msgstr ""
+
+#: ../404.php:18
+msgid "The page you are looking for could not be found."
+msgstr ""
+
+#: ../_featured.php:90 ../_loop-alt.php:60 ../_loop.php:45
+#: ../_single-header.php:26
+msgid "at"
+msgstr ""
+
+#: ../_featured.php:100 ../_loop-alt.php:77 ../_loop-alt.php:91
+#: ../_loop.php:62
+msgid "(more...)"
+msgstr ""
+
+#: ../_loop-alt.php:11
+msgid "More"
+msgstr ""
+
+#: ../_newsflash.php:49
+#: ../widgets/wpbandit-widget-tabs.php:316
+msgid "Most Popular"
+msgstr ""
+
+#: ../_newsflash.php:51
+msgid "All time"
+msgstr ""
+
+#: ../_newsflash.php:52
+msgid "This month"
+msgstr ""
+
+#: ../_newsflash.php:53
+msgid "This week"
+msgstr ""
+
+#: ../_newsflash.php:54
+msgid "Last 24 hours"
+msgstr ""
+
+#: ../_newsflash.php:81
+msgid "Latest Stories"
+msgstr ""
+
+#: ../_newsflash.php:82
+msgid "What is new?"
+msgstr ""
+
+#: ../_newsflash.php:119
+#: ../widgets/wpbandit-widget-tabs.php:317
+msgid "Comments"
+msgstr ""
+
+#: ../_newsflash.php:120 ../index.php:22
+msgid "Most Recent"
+msgstr ""
+
+#: ../_related-posts.php:6
+msgid "Related Posts"
+msgstr ""
+
+#: ../_single-header.php:19
+msgid "by"
+msgstr ""
+
+#: ../search.php:11
+msgid "Search results for"
+msgstr ""
+
+#: ../search.php:18
+msgid "No search results"
+msgstr ""
+
+#: ../search.php:19
+msgid "The good news is you can try again."
+msgstr ""
+
+#: ../search.php:23
+msgid "Search"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Enter your search..."
+msgstr ""
+
+#: ../single-full-top.php:30 ../single-full.php:30 ../single.php:25
+msgid "Pages:"
+msgstr ""
+
+#: ../single-full-top.php:35 ../single-full.php:35 ../single.php:30
+msgid "Tags:"
+msgstr ""
+
+#: ../single-full-top.php:51 ../single-full-top.php:65 ../single-full.php:51
+#: ../single.php:46 ../single.php:60
+msgid "Previous story"
+msgstr ""
+
+#: ../single-full-top.php:52 ../single-full-top.php:66 ../single-full.php:52
+#: ../single.php:47 ../single.php:61
+msgid "Next story"
+msgstr ""
+
+#: ../air/theme/theme.php:236
+msgid "Navigate to..."
+msgstr ""
+
+#: ../air/theme/theme.php:571
+msgid "Author:"
+msgstr ""
+
+#: ../air/theme/theme.php:576
+msgid "Category:"
+msgstr ""
+
+#: ../air/theme/theme.php:581
+msgid "Tagged:"
+msgstr ""
+
+#: ../air/theme/theme.php:586
+msgid "Daily Archive:"
+msgstr ""
+
+#: ../air/theme/theme.php:591
+msgid "Monthly Archive:"
+msgstr ""
+
+#: ../air/theme/theme.php:596
+msgid "Yearly Archive:"
+msgstr ""
+
+#: ../page-templates/sitemap.php:28
+msgid "Pages"
+msgstr ""
+
+#: ../page-templates/sitemap.php:32
+msgid "All Articles:"
+msgstr ""
+
+#: ../page-templates/sitemap.php:42
+msgid "Feeds"
+msgstr ""
+
+#: ../page-templates/sitemap.php:44
+msgid "Main RSS"
+msgstr ""
+
+#: ../page-templates/sitemap.php:45
+msgid "Comment Feed"
+msgstr ""
+
+#: ../page-templates/sitemap.php:47
+msgid "Categories"
+msgstr ""
+
+#: ../page-templates/sitemap.php:49
+msgid "Archives"
+msgstr ""
+
+#: ../widgets/wpbandit-widget-tabs.php:315
+msgid "Recent Posts"
+msgstr ""
+
+#: ../widgets/wpbandit-widget-tabs.php:318
+msgid "Tags"
+msgstr ""
+
+#: ../widgets/wpbandit-widget-tabs.php:525
+msgid "on:"
+msgstr ""

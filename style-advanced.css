@@ -1,0 +1,137 @@
+/* Note : Do not place custom styles in this stylesheet */
+
+
+
+body { background-repeat: repeat; background-position: top center; }
+
+@media only screen and (max-width: 639px) { #subheader { display: none; } }
+
+
+
+.entry-comments a span,
+
+.entry-comments a span i.pike,
+
+.entry-comments a:hover span,
+
+.entry-comments a:hover span i.pike,
+
+div.jp-play-bar, div.jp-volume-bar-value { background-color: #5eb6c5; }
+
+		
+
+
+
+a,
+
+label .required,
+
+.comment-awaiting-moderation,
+
+#nav li a:hover, 
+
+#nav li:hover a, 
+
+#nav li.current_page_item a, 
+
+#nav li.current-menu-ancestor a, 
+
+#nav li.current-menu-item a,
+
+#nav-sub li a:hover, 
+
+#nav-sub li:hover a, 
+
+#nav-sub li.current_page_item a, 
+
+#nav-sub li.current-menu-ancestor a, 
+
+#nav-sub li.current-menu-item a,
+
+#nav-topbar li a:hover, 
+
+#nav-topbar li:hover a, 
+
+#nav-topbar li.current_page_item a, 
+
+#nav-topbar li.current-menu-ancestor a, 
+
+#nav-topbar li.current-menu-item a,
+
+.entry-meta li.entry-author a,
+
+.widget_rss ul li a,
+
+.widget_tag_cloud .tagcloud a:hover,
+
+.widget_calendar a,
+
+#subfooter .widget_calendar a,
+
+#child-menu li li li.current_page_item a,
+
+#child-menu li li li.current-menu-item a,
+
+#child-menu li li li.current_page_item a:hover,
+
+#child-menu li li li.current-menu-item a:hover,
+
+ul.tabs-nav li a.active,
+
+.accordion .title a:hover,
+
+.accordion .title.active a,
+
+.toggle .title:hover,
+
+.toggle .title.active { color: #579f2b; }
+
+
+
+#header-line,
+
+#nav li.current_page_item a, 
+
+#nav li.current-menu-ancestor a, 
+
+#nav li.current-menu-item a,
+
+.entry-tags a:hover,
+
+.widget_calendar caption,
+
+#footer a#to-top,
+
+input[type="submit"],
+
+button[type="submit"],
+
+a.button,
+
+.accordion .title.active .icon,
+
+.toggle .title.active .icon { background-color: #579f2b; }
+
+
+
+.widget_wpb_tabs .wpb-tabs li a.active { background-color: #579f2b!important; }
+
+
+
+.color { color: #579f2b!important; }
+
+::selection { background-color: #579f2b; }
+
+::-moz-selection { background-color: #579f2b; }
+
+
+
+ul.tabs-nav li a.active { border-top-color: #579f2b; }
+
+
+
+#header-search { width: 182px; }
+
+#logo a { white-space: nowrap; }
+
+			
